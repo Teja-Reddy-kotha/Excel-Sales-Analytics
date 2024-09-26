@@ -8,7 +8,19 @@
   
   **2.** Conduct a comprehensive comparison between market performance and sales targets
 
+[Customer Performance Report](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
+[Market Performance](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)
+
+[Top 10 Products](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)
+
+[Divisional Level Report](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Divisional%20Level%20Report.pdf)
+
+[Top and Bottom 3 performing Products](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Top%20-%20Bottom%205%20Products.pdf)
+
+[Newly introduced products of 2021](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Top%20-%20Bottom%205%20Products.pdf)
+
+[Top 5 Revenue Countries of FY2021](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Top%205%20Countries.pdf)
   
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
