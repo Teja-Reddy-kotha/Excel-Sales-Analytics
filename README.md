@@ -19,7 +19,7 @@
   
   **2.** Create Profit and Loss (P&L) reports by Markets
   
-(Gross Margin by Quarters)[GM by Quarters.pdf]
+[GM by Quarters.pdf]
   
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
