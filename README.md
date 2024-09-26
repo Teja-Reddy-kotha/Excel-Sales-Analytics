@@ -7,6 +7,9 @@
   **1.** Create a customer performance report
   
   **2.** Conduct a comprehensive comparison between market performance and sales targets
+
+
+  
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
@@ -20,8 +23,11 @@
   **2.** Create Profit and Loss (P&L) reports by Markets
   
 [Gross margin by Quarters](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/GM%20by%20Quarters.pdf)
+
 [Market wise Profit and loss](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/GM%20by%20Quarters.pdf)
+
 [Monthly sales by Fiscal year of AtliQ Hardware](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Months.pdf)
+
 [Key Mertics](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Year.pdf)
   
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
