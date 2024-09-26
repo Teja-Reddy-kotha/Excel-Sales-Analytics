@@ -18,9 +18,9 @@
 
 [Top and Bottom 3 performing Products](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Top%20-%20Bottom%205%20Products.pdf)
 
-[Newly introduced products of 2021](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Top%20-%20Bottom%205%20Products.pdf)
+[Newly introduced products in FY 2021](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Top%20-%20Bottom%205%20Products.pdf)
 
-[Top 5 Revenue Countries of FY2021](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Top%205%20Countries.pdf)
+[Top 5 Revenue Countries of FY 2021](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Top%205%20Countries.pdf)
   
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
