@@ -20,6 +20,9 @@
   **2.** Create Profit and Loss (P&L) reports by Markets
   
 [Gross margin by Quarters](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/GM%20by%20Quarters.pdf)
+[Market wise Profit and loss](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/GM%20by%20Quarters.pdf)
+[Monthly sales by Fiscal year of AtliQ Hardware](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Months.pdf)
+[Key Mertics](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Year.pdf)
   
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
