@@ -10,17 +10,17 @@
 
   [Customer Performance Report](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
-[Market Performance](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)
+  [Market Performance](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)
 
-[Top 10 Products](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)
+  [Top 10 Products](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)
 
-[Divisional Level Report](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Divisional%20Level%20Report.pdf)
+  [Divisional Level Report](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Divisional%20Level%20Report.pdf)
 
-[Top and Bottom 3 performing Products](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Top%20-%20Bottom%205%20Products.pdf)
+  [Top and Bottom 3 performing Products](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Top%20-%20Bottom%205%20Products.pdf)
 
-[Newly introduced products in FY 2021](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Top%20-%20Bottom%205%20Products.pdf)
+  [Newly introduced products in FY 2021](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Top%20-%20Bottom%205%20Products.pdf)
 
-[Top 5 Revenue Countries of FY 2021](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Top%205%20Countries.pdf)
+  [Top 5 Revenue Countries of FY 2021](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Top%205%20Countries.pdf)
   
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
@@ -34,13 +34,13 @@
   
   **2.** Create Profit and Loss (P&L) reports by Markets
   
-[Gross margin by Quarters](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/GM%20by%20Quarters.pdf)
+  [Gross margin by Quarters](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/GM%20by%20Quarters.pdf)
 
-[Market wise Profit and loss](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/GM%20by%20Quarters.pdf)
+  [Market wise Profit and loss](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/GM%20by%20Quarters.pdf)
 
-[Monthly sales by Fiscal year of AtliQ Hardware](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Months.pdf)
+  [Monthly sales by Fiscal year of AtliQ Hardware](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Months.pdf)
 
-[Key Mertics](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Year.pdf)
+  [Key Mertics](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Year.pdf)
   
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
