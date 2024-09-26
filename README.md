@@ -8,7 +8,7 @@
   
   **2.** Conduct a comprehensive comparison between market performance and sales targets
 
-[Customer Performance Report](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
+  [Customer Performance Report](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
 [Market Performance](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)
 
