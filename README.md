@@ -36,7 +36,7 @@
   
   [Gross margin by Quarters](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/GM%20by%20Quarters.pdf)
 
-  [Market wise Profit and loss](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/GM%20by%20Quarters.pdf)
+  [Market wise Profit and loss](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Market.pdf)
 
   [Monthly sales by Fiscal year of AtliQ Hardware](https://github.com/Teja-Reddy-kotha/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Months.pdf)
 
